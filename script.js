@@ -1,4 +1,7 @@
 const arr = [1, 2, 3, 4, 1, 0, 2, 2];
+let result=[];
+let temp=[];
+let sum=0;
 
 const divide = (arr, n) => {
   // Write your code here
